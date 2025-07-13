@@ -51,3 +51,5 @@ D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Api\bin\Debug\net8.0\runtimes\
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Api\bin\Debug\net8.0\TimeFlick.Infrastructure.dll
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Api\bin\Debug\net8.0\TimeFlick.Infrastructure.pdb
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Api\bin\Debug\net8.0\DinkToPdf.dll
+D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Api\obj\Debug\net8.0\TimeFlick.Api.sourcelink.json
+D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

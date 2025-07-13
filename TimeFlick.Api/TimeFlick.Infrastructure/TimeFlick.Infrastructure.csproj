@@ -8,6 +8,7 @@
 
   <ItemGroup>
 	  <PackageReference Include="DinkToPdf" Version="1.0.8" />
+	  <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="10.0.0-preview.5.25277.114" />
 
 	  <PackageReference Include="Select.Pdf.NetCore" Version="25.2.0" />
   </ItemGroup>

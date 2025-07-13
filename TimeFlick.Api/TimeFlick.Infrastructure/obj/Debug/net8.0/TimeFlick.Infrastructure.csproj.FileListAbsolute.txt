@@ -17,3 +17,4 @@ D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\obj\Debug\net8.
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\obj\Debug\net8.0\refint\TimeFlick.Infrastructure.dll
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\obj\Debug\net8.0\TimeFlick.Infrastructure.pdb
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\obj\Debug\net8.0\ref\TimeFlick.Infrastructure.dll
+D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\obj\Debug\net8.0\TimeFlick.Infrastructure.sourcelink.json

@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "H51E3XCJtoQ=",
+  "dgSpecHash": "QX2O7b5pCHY=",
   "success": true,
   "projectFilePath": "D:\\My Workspace\\TimeFlick\\TimeFlick.Api\\TimeFlick.Api\\TimeFlick.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CodeWare\\.nuget\\packages\\dinktopdf\\1.0.8\\dinktopdf.1.0.8.nupkg.sha512",
     "C:\\Users\\CodeWare\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\CodeWare\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\CodeWare\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0-preview.5.25277.114\\microsoft.extensions.dependencyinjection.abstractions.10.0.0-preview.5.25277.114.nupkg.sha512",
     "C:\\Users\\CodeWare\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.9\\microsoft.netcore.platforms.3.1.9.nupkg.sha512",
     "C:\\Users\\CodeWare\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\CodeWare\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",

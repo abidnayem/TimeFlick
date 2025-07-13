@@ -9,3 +9,4 @@ D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Core\obj\Debug\net8.0\TimeFlic
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Core\obj\Debug\net8.0\refint\TimeFlick.Core.dll
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Core\obj\Debug\net8.0\TimeFlick.Core.pdb
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Core\obj\Debug\net8.0\ref\TimeFlick.Core.dll
+D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Core\obj\Debug\net8.0\TimeFlick.Core.sourcelink.json
