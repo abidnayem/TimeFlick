@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Workspace\\TimeFlick\\TimeFlick.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{747E40CE-827D-4AF9-96C9-7F1C9F7BF22E}|TimeFlick.Api\\TimeFlick.Api.csproj|d:\\my workspace\\timeflick\\timeflick.api\\timeflick.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747E40CE-827D-4AF9-96C9-7F1C9F7BF22E}|TimeFlick.Api\\TimeFlick.Api.csproj|solutionrelative:timeflick.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0997E15-2297-42FC-A49C-838A98B016FF}|TimeFlick.Infrastructure\\TimeFlick.Infrastructure.csproj|d:\\my workspace\\timeflick\\timeflick.api\\timeflick.infrastructure\\timeflick.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0997E15-2297-42FC-A49C-838A98B016FF}|TimeFlick.Infrastructure\\TimeFlick.Infrastructure.csproj|solutionrelative:timeflick.infrastructure\\timeflick.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747E40CE-827D-4AF9-96C9-7F1C9F7BF22E}|TimeFlick.Api\\TimeFlick.Api.csproj|d:\\my workspace\\timeflick\\timeflick.api\\timeflick.api\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747E40CE-827D-4AF9-96C9-7F1C9F7BF22E}|TimeFlick.Api\\TimeFlick.Api.csproj|solutionrelative:timeflick.api\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFDD325-AA11-4917-8A27-E9F34FE31B2C}|TimeFlick.Core\\TimeFlick.Core.csproj|d:\\my workspace\\timeflick\\timeflick.api\\timeflick.core\\interfaces\\ipdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DFDD325-AA11-4917-8A27-E9F34FE31B2C}|TimeFlick.Core\\TimeFlick.Core.csproj|solutionrelative:timeflick.core\\interfaces\\ipdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TimeFlick.Infrastructure",
+              "DocumentMoniker": "D:\\My Workspace\\TimeFlick\\TimeFlick.Api\\TimeFlick.Infrastructure\\TimeFlick.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "TimeFlick.Infrastructure\\TimeFlick.Infrastructure.csproj",
+              "ToolTip": "D:\\My Workspace\\TimeFlick\\TimeFlick.Api\\TimeFlick.Infrastructure\\TimeFlick.Infrastructure.csproj",
+              "RelativeToolTip": "TimeFlick.Infrastructure\\TimeFlick.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-13T06:39:52.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workspace\\TimeFlick\\TimeFlick.Api\\TimeFlick.Api\\Program.cs",
+              "RelativeDocumentMoniker": "TimeFlick.Api\\Program.cs",
+              "ToolTip": "D:\\My Workspace\\TimeFlick\\TimeFlick.Api\\TimeFlick.Api\\Program.cs",
+              "RelativeToolTip": "TimeFlick.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:37:44.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "D:\\My Workspace\\TimeFlick\\TimeFlick.Api\\TimeFlick.Api\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "TimeFlick.Api\\Controllers\\AttendanceController.cs",
+              "ToolTip": "D:\\My Workspace\\TimeFlick\\TimeFlick.Api\\TimeFlick.Api\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "TimeFlick.Api\\Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAAAmwN4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:31:34.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPdfGenerator.cs",
+              "DocumentMoniker": "D:\\My Workspace\\TimeFlick\\TimeFlick.Api\\TimeFlick.Core\\Interfaces\\IPdfGenerator.cs",
+              "RelativeDocumentMoniker": "TimeFlick.Core\\Interfaces\\IPdfGenerator.cs",
+              "ToolTip": "D:\\My Workspace\\TimeFlick\\TimeFlick.Api\\TimeFlick.Core\\Interfaces\\IPdfGenerator.cs",
+              "RelativeToolTip": "TimeFlick.Core\\Interfaces\\IPdfGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:54:05.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TimeFlick.Application/1.0.0": {
+        "dependencies": {
+          "TimeFlick.Core": "1.0.0"
+        },
+        "runtime": {
+          "TimeFlick.Application.dll": {}
+        }
+      },
+      "TimeFlick.Core/1.0.0": {
+        "runtime": {
+          "TimeFlick.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TimeFlick.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TimeFlick.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Application\bin\Debug\net8.0\TimeFlick.Application.deps.json
+D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Application\bin\Debug\net8.0\TimeFlick.Application.dll
+D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Application\bin\Debug\net8.0\TimeFlick.Application.pdb
+D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Application\bin\Debug\net8.0\TimeFlick.Core.dll
+D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Application\bin\Debug\net8.0\TimeFlick.Core.pdb
+D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Application\obj\Debug\net8.0\TimeFlick.Application.csproj.AssemblyReference.cache
+D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Application\obj\Debug\net8.0\TimeFlick.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Application\obj\Debug\net8.0\TimeFlick.Application.AssemblyInfoInputs.cache
+D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Application\obj\Debug\net8.0\TimeFlick.Application.AssemblyInfo.cs
+D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Application\obj\Debug\net8.0\TimeFlick.Application.csproj.CoreCompileInputs.cache
+D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Application\obj\Debug\net8.0\TimeFlic.5278E64A.Up2Date
+D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Application\obj\Debug\net8.0\TimeFlick.Application.dll
+D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Application\obj\Debug\net8.0\refint\TimeFlick.Application.dll
+D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Application\obj\Debug\net8.0\TimeFlick.Application.pdb
+D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Application\obj\Debug\net8.0\ref\TimeFlick.Application.dll
