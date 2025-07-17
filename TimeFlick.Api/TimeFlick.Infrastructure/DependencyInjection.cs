@@ -13,10 +13,11 @@ namespace TimeFlick.Infrastructure
 {
     public static class DependencyInjection
     {
-        public static IServiceCollection AddInfrastructure(this IServiceCollection services)
+        public static IServiceCollection AddInfrastructureDI(this IServiceCollection services)
         {
             services.AddSingleton<IConverter>(new SynchronizedConverter(new PdfTools()));
             services.AddScoped<IPdfGenerator, DinkPdfGenerator>();
+            //services.AddScoped<IPdfGenerator, SelectPdfGenerator>();
 
             // Add other services here
             return services;

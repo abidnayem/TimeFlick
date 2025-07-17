@@ -16,7 +16,7 @@ builder.Services.AddSwaggerGen();
 // Register the PDF generator
 //builder.Services.AddScoped<IPdfGenerator, SelectPdfGenerator>();
 // Move this line:
-builder.Services.AddInfrastructure();
+builder.Services.AddInfrastructureDI();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

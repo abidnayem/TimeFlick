@@ -13,7 +13,8 @@ namespace TimeFlick.Core.Entities
 
         public int PersonId { get; set; }
         // public Person? Employee { get; set; }
-
+        public int ShiftId { get; set; }
+        public Shift? Shift { get; set; }
         public DateTime AttendanceDate { get; set; }
 
         public DateTime? InTime { get; set; }

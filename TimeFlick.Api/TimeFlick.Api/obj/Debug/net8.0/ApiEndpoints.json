@@ -1,45 +1,29 @@
 [
   {
     "ContainingType": "TimeFlick.Api.Controllers.AttendanceController",
-    "Method": "Get",
+    "Method": "GetAll",
     "RelativePath": "api/Attendance",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "TimeFlick.Api.Controllers.AttendanceController",
-    "Method": "Post",
+    "Method": "Create",
     "RelativePath": "api/Attendance",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "value",
-        "Type": "System.String",
+        "Name": "person",
+        "Type": "TimeFlick.Core.Entities.Person",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "TimeFlick.Api.Controllers.AttendanceController",
@@ -55,21 +39,11 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.String",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "TimeFlick.Api.Controllers.AttendanceController",
-    "Method": "Put",
+    "Method": "Update",
     "RelativePath": "api/Attendance/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
@@ -81,18 +55,12 @@
         "IsRequired": true
       },
       {
-        "Name": "value",
-        "Type": "System.String",
+        "Name": "person",
+        "Type": "TimeFlick.Core.Entities.Person",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "TimeFlick.Api.Controllers.AttendanceController",
@@ -108,13 +76,23 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TimeFlick.Api.Controllers.AttendanceController",
+    "Method": "GetByCode",
+    "RelativePath": "api/Attendance/code/{personCode}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
       {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
+        "Name": "personCode",
+        "Type": "System.String",
+        "IsRequired": true
       }
-    ]
+    ],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "TimeFlick.Api.Controllers.AttendanceController",

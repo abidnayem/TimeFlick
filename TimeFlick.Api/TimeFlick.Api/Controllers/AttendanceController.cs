@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using TimeFlick.Application.Services;
+using TimeFlick.Core.Entities;
 using TimeFlick.Core.Interfaces;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -10,10 +12,11 @@ namespace TimeFlick.Api.Controllers
     public class AttendanceController : ControllerBase
     {
         private readonly IPdfGenerator _pdfGenerator;
-
-        public AttendanceController(IPdfGenerator pdfGenerator)
+        private readonly IPersonService _personService;
+        public AttendanceController(IPdfGenerator pdfGenerator, IPersonService personService)
         {
             _pdfGenerator = pdfGenerator;
+            _personService = personService;
         }
         [HttpGet("report/download")]
         public IActionResult Download()
@@ -225,34 +228,49 @@ namespace TimeFlick.Api.Controllers
         }
         // GET: api/<AttendanceController>
         [HttpGet]
-        public IEnumerable<string> Get()
+        public async Task<IActionResult> GetAll()
         {
-            return new string[] { "value1", "value2" };
+            var persons = await _personService.GetAllAsync();
+            return Ok(persons);
         }
 
-        // GET api/<AttendanceController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public async Task<IActionResult> Get(int id)
         {
-            return "value";
+            var person = await _personService.GetByIdAsync(id);
+            if (person == null) return NotFound();
+            return Ok(person);
         }
 
-        // POST api/<AttendanceController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public async Task<IActionResult> Create(Person person)
         {
+            await _personService.AddAsync(person);
+            return CreatedAtAction(nameof(Get), new { id = person.Id }, person);
         }
 
-        // PUT api/<AttendanceController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public async Task<IActionResult> Update(int id, Person person)
         {
+            if (id != person.Id) return BadRequest();
+
+            await _personService.UpdateAsync(person);
+            return NoContent();
         }
 
-        // DELETE api/<AttendanceController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public async Task<IActionResult> Delete(int id)
         {
+            await _personService.RemoveAsync(id);
+            return NoContent();
+        }
+
+        [HttpGet("code/{personCode}")]
+        public async Task<IActionResult> GetByCode(string personCode)
+        {
+            var person = await _personService.GetByPersonCodeAsync(personCode);
+            if (person == null) return NotFound();
+            return Ok(person);
         }
     }
 }
