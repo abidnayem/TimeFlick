@@ -1,8 +1,3 @@
-D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\obj\Debug\net8.0\TimeFlick.Infrastructure.csproj.AssemblyReference.cache
-D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\obj\Debug\net8.0\TimeFlick.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\obj\Debug\net8.0\TimeFlick.Infrastructure.AssemblyInfoInputs.cache
-D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\obj\Debug\net8.0\TimeFlick.Infrastructure.AssemblyInfo.cs
-D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\obj\Debug\net8.0\TimeFlick.Infrastructure.csproj.CoreCompileInputs.cache
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\bin\Debug\net8.0\Select.Html.dep
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\bin\Debug\net8.0\Select.Tools.dep
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\bin\Debug\net8.0\TimeFlick.Infrastructure.deps.json
@@ -12,9 +7,14 @@ D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\bin\Debug\net8.
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\bin\Debug\net8.0\TimeFlick.Core.dll
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\bin\Debug\net8.0\TimeFlick.Application.pdb
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\bin\Debug\net8.0\TimeFlick.Core.pdb
+D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\obj\Debug\net8.0\TimeFlick.Infrastructure.csproj.AssemblyReference.cache
+D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\obj\Debug\net8.0\TimeFlick.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\obj\Debug\net8.0\TimeFlick.Infrastructure.AssemblyInfoInputs.cache
+D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\obj\Debug\net8.0\TimeFlick.Infrastructure.AssemblyInfo.cs
+D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\obj\Debug\net8.0\TimeFlick.Infrastructure.csproj.CoreCompileInputs.cache
+D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\obj\Debug\net8.0\TimeFlick.Infrastructure.sourcelink.json
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\obj\Debug\net8.0\TimeFlic.B70E2C70.Up2Date
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\obj\Debug\net8.0\TimeFlick.Infrastructure.dll
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\obj\Debug\net8.0\refint\TimeFlick.Infrastructure.dll
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\obj\Debug\net8.0\TimeFlick.Infrastructure.pdb
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\obj\Debug\net8.0\ref\TimeFlick.Infrastructure.dll
-D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Infrastructure\obj\Debug\net8.0\TimeFlick.Infrastructure.sourcelink.json

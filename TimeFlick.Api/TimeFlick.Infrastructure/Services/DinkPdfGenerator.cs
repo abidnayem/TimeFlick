@@ -23,7 +23,7 @@ namespace TimeFlick.Infrastructure.Services
             {
                 GlobalSettings = {
                 ColorMode = ColorMode.Color,
-                Orientation = Orientation.Portrait,
+                Orientation = Orientation.Landscape,
                 PaperSize = PaperKind.A4
             },
                 Objects = {

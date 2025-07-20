@@ -1,22 +1,34 @@
 using DinkToPdf;
 using DinkToPdf.Contracts;
+using TimeFlick.Application;
+using TimeFlick.Application.Services;
 using TimeFlick.Core.Interfaces;
 using TimeFlick.Infrastructure;
+using TimeFlick.Infrastructure.Repositories;
 using TimeFlick.Infrastructure.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Add Infrastructure Layer DI registrations
+builder.Services.AddInfrastructureDI(builder.Configuration);
 
+
+// Add Application Layer DI registrations
+builder.Services.AddApplicationDI();
+
+
+// Add services to the container.
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// Register the PDF generator
-//builder.Services.AddScoped<IPdfGenerator, SelectPdfGenerator>();
-// Move this line:
-builder.Services.AddInfrastructureDI();
+
+
+
+
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

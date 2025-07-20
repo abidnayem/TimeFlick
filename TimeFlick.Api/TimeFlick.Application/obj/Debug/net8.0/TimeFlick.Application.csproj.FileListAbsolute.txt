@@ -8,9 +8,9 @@ D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Application\obj\Debug\net8.0\T
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Application\obj\Debug\net8.0\TimeFlick.Application.AssemblyInfoInputs.cache
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Application\obj\Debug\net8.0\TimeFlick.Application.AssemblyInfo.cs
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Application\obj\Debug\net8.0\TimeFlick.Application.csproj.CoreCompileInputs.cache
+D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Application\obj\Debug\net8.0\TimeFlick.Application.sourcelink.json
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Application\obj\Debug\net8.0\TimeFlic.5278E64A.Up2Date
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Application\obj\Debug\net8.0\TimeFlick.Application.dll
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Application\obj\Debug\net8.0\refint\TimeFlick.Application.dll
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Application\obj\Debug\net8.0\TimeFlick.Application.pdb
 D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Application\obj\Debug\net8.0\ref\TimeFlick.Application.dll
-D:\My Workspace\TimeFlick\TimeFlick.Api\TimeFlick.Application\obj\Debug\net8.0\TimeFlick.Application.sourcelink.json

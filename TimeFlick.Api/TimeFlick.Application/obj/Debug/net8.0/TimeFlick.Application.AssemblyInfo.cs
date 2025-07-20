@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TimeFlick.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bc04e18d5d35a344be2b7fa7ddd67f48762419b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+110df5f3999509b5e767b2510093ed14caef36b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("TimeFlick.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TimeFlick.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
